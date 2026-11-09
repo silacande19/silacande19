@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️  I am looking to collaborate in a company
 - 😄 Pronouns: SIla Candela
-- ⚡ Fun fact: data, art plastic.
 - email: silaxcande19@gmail.com
 
 <!---
